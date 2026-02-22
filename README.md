@@ -1,5 +1,5 @@
 # Excel_analysis_project
-# Databel Customer Churn Analysis 📊
+# Databel Customer Churn Analysis
 
 ## Project Overview
 This project focuses on analyzing customer churn for a fictional telecommunications company called **Databel**. Using a sample dataset created purely for educational purposes, the primary goal of this analysis is to uncover patterns in customer behavior, identify the key drivers causing customers to cancel their subscriptions, and present these findings clearly to help inform business decisions.
